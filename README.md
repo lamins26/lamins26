@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **nicolaslamins@gmail.com**
 
-- ⚡ Fun fact **i like games, bikes**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/its_lamins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_lamins" height="30" width="40" /></a>
