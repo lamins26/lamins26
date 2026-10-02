@@ -1,25 +1,153 @@
-<h1 align="center">Hi 👋, I'm Nicolas Gomes Lamins</h1>
-<h3 align="center">a dev junior from Brazil</h3>
+# Nicolas Lamins
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamins26&label=Profile%20views&color=0e75b6&style=flat" alt="lamins26" /> </p>
+**Backend / Full-Stack Developer · Python & Django · Information Security Student**
 
+Desenvolvedor com experiência prática na construção de **APIs REST, sistemas web e integrações**, com foco em Python, Django e desenvolvimento de aplicações seguras e organizadas.
 
-- 🌱 I’m currently learning **Python, Django, Html, CSS**
+Atualmente estou aprofundando meus conhecimentos em **Django REST Framework, arquitetura de APIs, autenticação, autorização, Redis, Docker e Kubernetes**, além de continuar desenvolvendo minhas habilidades em frontend.
 
-- 👨‍💻 All of my projects are available at [https://github.com/lamins26](https://github.com/lamins26)
+🎓 Estudante de **Segurança da Informação na FATEC**
 
-- 💬 Ask me about **python**
+---
 
-- 📫 How to reach me **nicolaslamins@gmail.com**
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/its_lamins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_lamins" height="30" width="40" /></a>
+* 🔭 Atualmente desenvolvendo projetos com **Python, Django e Django REST Framework**
+* 🔐 Interesse em **segurança de APIs, autenticação, autorização e RBAC**
+* ⚡ Estudando **Redis, Docker, Docker Compose e Kubernetes**
+* 🌐 Conhecimentos em **React, Next.js, Vue e Nuxt**
+* 🗄️ Experiência com bancos de dados **SQL e NoSQL**
+* 📚 Sempre buscando evoluir em arquitetura, boas práticas e desenvolvimento de software
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" height="45" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Python · Django · Django REST Framework · APIs REST · JWT · RBAC · Service Layer**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamins26&show_icons=true&locale=en&layout=compact" alt="lamins26" /></p>
+### Frontend
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamins26&show_icons=true&locale=en" alt="lamins26" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,html,css,tailwind" height="45" />
+</p>
+
+**JavaScript · TypeScript · React · Next.js · Vue · Nuxt · HTML · CSS · Tailwind CSS**
+
+### Databases
+
+#### SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" height="45" />
+</p>
+
+**MySQL · PostgreSQL · SQLite · SQL · Django ORM**
+
+#### NoSQL / Cache
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redis" height="45" />
+</p>
+
+**Redis · Caching · Cache Invalidation**
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="45" />
+</p>
+
+**Docker · Docker Compose · Kubernetes**
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" height="45" />
+</p>
+
+**Git · GitHub · Postman · OpenAPI · Swagger**
+
+---
+
+## Featured Project
+
+### Help Desk API
+
+Backend desenvolvido para gerenciamento de chamados de suporte utilizando **Django REST Framework**.
+
+Principais recursos:
+
+* Custom User Model
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Roles para usuários, técnicos e administradores
+* Gerenciamento de tickets
+* Categorias, prioridades e status
+* Atribuição de tickets para técnicos
+* Mensagens relacionadas aos tickets
+* Service Layer para regras de negócio
+* Serializer validation
+* Pagination
+* Redis Cache
+* Cache invalidation
+* MySQL
+* Docker
+
+🔗 **Repository:** [github.com/lamins26/help_desk](https://github.com/lamins26/help_desk)
+
+---
+
+## What I'm Learning
+
+```text
+Django REST Framework
+        ↓
+API Architecture
+        ↓
+Authentication & Authorization
+        ↓
+Redis & Caching
+        ↓
+Docker & Containers
+        ↓
+Kubernetes
+        ↓
+Information Security
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lamins26&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamins26&layout=compact&hide_border=true&theme=transparent" height="165" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://github.com/lamins26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-lamins-879315319/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nicolaslamins@mail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Building APIs, learning security, and continuously improving.</sub>
+</p>
