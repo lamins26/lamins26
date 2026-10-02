@@ -49,13 +49,16 @@ Atualmente estou aprofundando meus conhecimentos em **Django REST Framework, arq
 
 **MySQL · PostgreSQL · SQLite · SQL · Django ORM**
 
-#### NoSQL / Cache
+#### NoSQL
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redis" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase" height="45" />
 </p>
 
-**Redis · Caching · Cache Invalidation**
+**MongoDB · Redis · CouchDB · Firebase**
+
+**Concepts:** Data modeling · Queries · CRUD · Indexing · Relationships · Caching
+
 
 ### DevOps & Infrastructure
 
